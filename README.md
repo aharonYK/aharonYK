@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @aharon karsenti
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning in cyberpro israel fuul stuck 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aharon589@gmail.com
+## Skills
+🌱 I’m currently learning in cyberpro israel full-stuck
+🌱java
+
+## 📫 Contact
+E-mail:
+<br>
+<a href="aharon589@gmail.com"><img src="https://i.ibb.co/vY68Ff6/290854.png" width="80" height="80" alt="290854" border="0"></a>
 
 <!---
 aharonYK/aharonYK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
