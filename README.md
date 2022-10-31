@@ -1,4 +1,4 @@
-- 👋 Hi, I’m aharon karsenti
+- 👋 Hi, I’m Aharon Karsenti
 
 ## Skills
 🌱 I’m currently learning in cyberpro israel full-stuck
