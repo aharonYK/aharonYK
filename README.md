@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aharon karsenti
-- 👀 I’m interested in ...
+- 👋 Hi, I’m aharon karsenti
+
 ## Skills
 🌱 I’m currently learning in cyberpro israel full-stuck
 🌱java
