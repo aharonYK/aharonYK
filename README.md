@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aharon Karsenti
 
 ## Skills
-🌱 I’m currently learning in cyberpro israel full-stuck
-🌱java
+I’m currently learning in cyberpro israel full-stuck
+-🌱java
 
 ## 📫 Contact
 E-mail:
