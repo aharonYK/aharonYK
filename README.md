@@ -5,6 +5,12 @@
 
 🌱java
 
+🌱javascript
+
+🌱HTML
+
+🌱CSS
+
 ## 📫 Contact
 E-mail:
 <br>
