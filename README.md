@@ -1,20 +1,33 @@
 - 👋 Hi, I’m Aharon Karsenti
 
 ## Skills
-🌱 I’m currently learning in cyberpro israel full-stuck
 
-🌱java
+<div style='display:flex; justify-content:space-between; align-items:center;'>
 
-🌱javascript
+<img  alt="JavaScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png"/>
 
-🌱HTML
+<img  alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-🌱CSS
+<img  alt="Node.js" width="35px" src="https://img.icons8.com/color/452/nodejs.png" />
+
+<img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+</div>
+
+
+
 
 ## 📫 Contact
 E-mail:
 <br>
 <a href="aharon589@gmail.com"><img src="https://i.ibb.co/vY68Ff6/290854.png" width="80" height="80" alt="290854" border="0"></a>
+
+LinkdIn:
+<br>
+<a href="https://www.linkedin.com/in/aharon-karsenti-85a845256/">
 
 <!---
 aharonYK/aharonYK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
