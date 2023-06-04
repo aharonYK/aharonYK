@@ -34,9 +34,8 @@
   </p>
 E-mail:
 <br>
-<a href="aharon589@gmail.com"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" width="120" height="80" alt="290854" border="0"></a>
+<a href="mailto:aharon589@gmail.com">Send Email<img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" width="120" height="80" alt="290854" border="0"></a>
 
-=>aharon589@gmail.com
 
 
 
