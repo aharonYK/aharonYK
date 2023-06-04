@@ -34,14 +34,11 @@
   </p>
 E-mail:
 <br>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNwgMWvFcxNbTgJkPgrWlFhDgWThFCHWXltpPhFTkCtNWDgSFGVDZtrVqSzpjrSjVzBFFL"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" width="120" height="80" alt="290854" border="0"></a>
+<a href="aharon589@gmail.com"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" width="120" height="80" alt="290854" border="0"></a>
 
 =>aharon589@gmail.com
 
-LinkdIn:
-<br>
-<a href="https://www.linkedin.com/in/aharon-karsenti-85a845256/">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="80" height="80" alt="290854" border="0"></a>
+
 
 <!---
 aharonYK/aharonYK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
