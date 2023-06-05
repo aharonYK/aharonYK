@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aharon Karsenti
 
 ## 👨🏻‍💻 About Me:
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website]((https://aharonk.netlify.app/))**
 
 ## 🛠️ Technologies and Tools I use:
 <p>
