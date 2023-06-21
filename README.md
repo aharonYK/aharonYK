@@ -34,8 +34,7 @@
   </p>
 E-mail:
 <br>
-<a href="mailto:aharon589@gmail.com"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__340.png" width="120" height="80" alt="290854" border="0"></a>
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)]
 
 
 
