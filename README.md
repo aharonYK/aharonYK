@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Aharon Karsenti
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aharonYK&label=Profile%20views&color=0e75b6&style=flat" alt="chayale90" /> </p>
 
 ## 👨🏻‍💻 About Me:
 - 🙋‍♂️ All about me is at **[My Website](https://aharonk.netlify.app/)**
@@ -24,12 +25,14 @@
   </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aharonYK&show_icons=true&locale=en&layout=compact" alt="chayale90" /></p>
 
 
 
 ## ❤️ Let's get connected:
 <p><a href="https://www.linkedin.com/in/aharon-karsenti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
   
+- 📫 How to reach me **aharon589@gmail.com**  
   
   </p>
 
