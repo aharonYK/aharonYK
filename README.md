@@ -22,14 +22,9 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
   <img alt="sql" height="25px"  src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"/>
-  </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aharonYK&show_icons=true&locale=en&layout=compact" alt="chayale90" /></p>
-
-
-
+  
 ## ❤️ Let's get connected:
+</p>
 <p><a href="https://www.linkedin.com/in/aharon-karsenti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"  height="30px"/></a>
   
 - 📫 How to reach me **aharon589@gmail.com**  
