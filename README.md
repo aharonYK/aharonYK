@@ -30,7 +30,7 @@
 
 
 ## ❤️ Let's get connected:
-<p><a href="https://www.linkedin.com/in/aharon-karsenti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<p><a href="https://www.linkedin.com/in/aharon-karsenti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"  height="30px"/></a>
   
 - 📫 How to reach me **aharon589@gmail.com**  
   
