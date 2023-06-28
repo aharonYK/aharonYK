@@ -26,6 +26,9 @@
 
   [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aharonYK&layout=compact&&bg_color=60,1b2932,2b6962&title_color=d3b692&text_color=c5cdd3&hide_border=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=dvirberlo&layout=compact&&bg_color=60,1b2932,2b6962&title_color=d3b692&text_color=c5cdd3&hide_border=true&langs_count=10)
 
+<!--   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aharonYK&bg_color=60,1b2932,2b6962&title_color=d3b692&text_color=c5cdd3&icon_color=72b7c0&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=dvirberlo&bg_color=60,1b2932,2b6962&title_color=d3b692&text_color=c5cdd3&icon_color=72b7c0&show_icons=true&hide_border=true)
+
+This is a comment in Markdown -->
   
 ## ❤️ Let's get connected:
 </p>
